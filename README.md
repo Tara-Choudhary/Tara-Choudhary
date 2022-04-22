@@ -1,7 +1,7 @@
 Hi 👋 My name is Tara Choudhary
 ===============================
 
-Front-end developer and designer
+Front-end developer(HTML-CSS-JavaScript) and designer
 --------------------------------
 
 * 🌍  I'm based in INDIA
