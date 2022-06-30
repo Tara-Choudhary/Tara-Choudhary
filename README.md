@@ -1,4 +1,4 @@
-Hi 👋 My name is Tara Choudhary
+Hi 👋 My name is Tara Choudhary[https://www.linkedin.com/in/tara-choudhary-b44910237/]
 ===============================
 
 Front-end developer(HTML-CSS-JavaScript) and designer
