@@ -25,15 +25,13 @@ Front-end developer(HTML-CSS-JavaScript) and designer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Tara-Choudhary" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tara-choudhary-b44910237" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/developerTara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 <a href="https://www.twitter.com/developerTara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/developerTara?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Tara-Choudhary" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tara-Choudhary?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TaraChoudhary?logo=LinkedIn&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/>
+/></a>
 
 
 
