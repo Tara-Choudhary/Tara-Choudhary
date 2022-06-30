@@ -23,10 +23,7 @@ Front-end developer(HTML-CSS-JavaScript) and designer
 </p>
 
 
-### Socials
 
- LinkedIn: https://linkedin.com/in/TaraChoudhary<br>
- Twitter: https://twitter.com/developerTara?lang=en
 
 
 
