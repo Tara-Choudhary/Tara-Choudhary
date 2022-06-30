@@ -25,13 +25,8 @@ Front-end developer(HTML-CSS-JavaScript) and designer
 
 ### Socials
 
-<a href="https://www.twitter.com/developerTara" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/developerTara?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Tara-Choudhary" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Tara-Choudhary?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TaraChoudhary?logo=LinkedIn&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+ LinkedIn: https://linkedin.com/in/TaraChoudhary<br>
+ Twitter: https://twitter.com/developerTara?lang=en
 
 
 
