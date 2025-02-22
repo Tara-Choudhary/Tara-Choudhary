@@ -1,9 +1,6 @@
 # 👋 Hey, I'm Tara Choudhary!  
 
-I started my journey in **web development**, exploring **HTML, CSS, and JavaScript** early on.  
-Along the way, I ventured into **UI/UX and graphic design**, which gave me a strong eye for aesthetics and user experience.  
-However, I realized that **coding is where my true passion lies**, and now I’m fully focused on **front-end development**—  
-learning, building, and improving my fundamentals every day.  
+I started my journey in web development, exploring HTML, CSS, and JavaScript. Over time, I ventured into UI/UX and graphic design, refining my eye for aesthetics and user experience. Now, I’m focused on building a future in tech—balancing design and code while exploring Python and Data Science..  
 
 ## 💡 What I’m Learning & Working On:  
 - **🎨 Graphic & UI/UX Design – Refining my visual storytelling & user experience skills**  
