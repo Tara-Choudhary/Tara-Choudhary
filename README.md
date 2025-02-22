@@ -6,14 +6,12 @@ However, I realized that **coding is where my true passion lies**, and now I’m
 learning, building, and improving my fundamentals every day.  
 
 ## 💡 What I’m Learning & Working On:  
-- **Core Front-End Technologies**: HTML, CSS, JavaScript  
-- **Modern Frameworks**: ReactJS (currently learning & practicing)  
-- **Building Responsive & Accessible Interfaces**  
+- **🎨 Graphic & UI/UX Design – Refining my visual storytelling & user experience skills**  
+- **💻 Python & Data Science – Rebuilding my coding foundation & exploring data-driven insights** 
+
 
 ## 🚀 Why I’m Here?  
-I'm committed to **strengthening my front-end skills, writing clean and efficient code,  
-and contributing to real-world projects**. Excited to connect with fellow developers,  
-collaborate, and grow in this journey!  
+I'm committed to refining my design skills, expanding my coding knowledge, and building a career in tech. Excited to connect, collaborate, and grow in this journey!  
 
 ---
 
