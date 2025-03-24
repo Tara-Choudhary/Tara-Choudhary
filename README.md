@@ -4,7 +4,7 @@ I started my journey in web development, exploring HTML, CSS, and JavaScript. Ov
 
 ## 💡 What I’m Learning & Working On:  
 - **🎨 Graphic & UI/UX Design – Refining my visual storytelling & user experience skills**  
-- **💻 Python & Data Science – Rebuilding my coding foundation & exploring data-driven insights** 
+- **💻 Front-end – Rebuilding my coding foundation & exploring data-driven insights** 
 
 
 ## 🚀 Why I’m Here?  
