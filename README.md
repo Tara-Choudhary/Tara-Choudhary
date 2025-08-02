@@ -1,18 +1,23 @@
-# 👋 Hey, I'm Tara Choudhary!  
+# 👋 Hi, I'm Tara Choudhary
 
-I started my journey in web development, exploring HTML, CSS, and JavaScript. Over time, I ventured into UI/UX and graphic design, refining my eye for aesthetics and user experience. Now, I’m focused on building a future in tech—balancing design and code while exploring Python and Data Science..  
+I'm currently focused on building a strong foundation in technology through hands-on learning and real-world project work.
 
-## 💡 What I’m Learning & Working On:  
-- **🎨 Graphic & UI/UX Design – Refining my visual storytelling & user experience skills**  
-- **💻 Front-end – Rebuilding my coding foundation & exploring data-driven insights** 
+My learning path is centered around **Python**, where I’m working on small projects to improve how I think and solve problems with code. I'm also gradually exploring tools that support system-level thinking and long-term growth in software development.
 
-
-## 🚀 Why I’m Here?  
-I'm committed to refining my design skills, expanding my coding knowledge, and building a career in tech. Excited to connect, collaborate, and grow in this journey!  
+I enjoy approaching each concept with curiosity, clarity, and a mindset of continuous learning.
 
 ---
 
-<!--
-📂 **Check out my work:**  
-🔗 [GitHub](https://github.com/Tara-Choudhary) | 🎨 [Behance](https://www.behance.net/tarachoudhary1)
+## 🌱 Current Focus
+- Learning Python and applying it through projects
+- Strengthening my problem-solving and logical thinking
+- Exploring software development tools and workflows
+
+<!-- Optional: Add later
+## 📘 I also write about:
+- On-device AI and mobile UX (see [my blog](https://forem.com/tara_choudhary00))
 -->
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/tara-choudhary00/)
+- [DEV Profile](https://dev.to/tara_choudhary00)
