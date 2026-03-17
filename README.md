@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tara Choudhary</h1>
 <h3 align="center">Data Analyst | Application Support Engineer | SQL • Linux • Production Support • Root Cause Analysis</h3>
 
+---
 
 ## 👨‍💻 About Me
 
@@ -15,6 +16,7 @@ I am a **Data Analyst and Application Support Engineer** with hands-on experienc
 
 💼 **What I can do:** Analyze data using SQL, troubleshoot application issues, and support production systems efficiently.
 
+---
 
 ## 🚀 Current Focus
 
@@ -22,8 +24,9 @@ I am a **Data Analyst and Application Support Engineer** with hands-on experienc
 - 🐍 Using **Python for data analysis and automation**  
 - 🛠️ Practicing **Application Support scenarios (L1/L2 issues, debugging)**  
 - 📈 Building **real-world data projects (E-commerce, business datasets)**  
-- 🐧 Strengthening **Linux troubleshooting and system understanding** 
+- 🐧 Strengthening **Linux troubleshooting and system understanding**  
 
+---
 
 ## 🧰 Tech Stack & Tools  
 
@@ -49,10 +52,9 @@ I am a **Data Analyst and Application Support Engineer** with hands-on experienc
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
 
-
-
-
+---
 
 ## 🎯 Career Goal  
 
@@ -64,6 +66,8 @@ Seeking an **entry-level Data Analyst / Application Support role**, where I can:
 - Support live systems and improve reliability  
 
 while continuously improving in **data analysis, SQL, and system support skills**.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -88,4 +92,6 @@ while continuously improving in **data analysis, SQL, and system support skills*
   </a>
 </p>
 
-💡 *Strong focus on real-world problem solving, system reliability, and data-driven decision making.*
+---
+
+💡 **Strong focus on real-world problem solving, system reliability, and data-driven decision making.**
