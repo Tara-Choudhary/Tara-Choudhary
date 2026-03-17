@@ -1,91 +1,69 @@
 <h1 align="center">Hi 👋, I'm Tara Choudhary</h1>
-<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Linux | Docker | CI/CD</h3>
+<h3 align="center">Data Analyst | Application Support Engineer | SQL • Linux • Production Support • Root Cause Analysis</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+DevOps+Engineer;AWS+EC2+%7C+Linux+%7C+Docker;CI%2FCD+with+GitHub+Actions;Learning+by+Building+Real+Projects&center=true&width=520&height=45">
-</p>
-
----
 
 ## 👨‍💻 About Me
 
-I'm an **Aspiring DevOps / Cloud Engineer** focused on building and automating cloud-based applications through **hands-on projects**.
+I am a **Data Analyst and Application Support Engineer** with hands-on experience in analyzing data, troubleshooting applications, and supporting real-world systems.
 
-- 🔧 Working with **AWS EC2**, Linux servers, Docker, and CI/CD pipelines  
-- 🛠️ Building real systems instead of just watching tutorials  
-- 🐧 Comfortable debugging issues on Linux and understanding systems end-to-end  
-- 🧠 I enjoy breaking things, fixing them, and learning *why* they work  
-- 📍 Pune, India
+- 📊 Skilled in **SQL for data analysis, reporting, and business insights**
+- 🔧 Experienced in **debugging applications and resolving production issues**
+- 🐧 Comfortable working on **Linux systems (logs, processes, system-level troubleshooting)**
+- 🛠️ Built and supported **real-world projects simulating production environments**
+- 🧠 Strong focus on **root cause analysis and problem-solving**
+- 📍 Pune, India  
 
----
+💼 **What I can do:** Analyze data using SQL, troubleshoot application issues, and support production systems efficiently.
+
 
 ## 🚀 Current Focus
 
-- Cloud deployments on **AWS**
-- CI/CD automation using **GitHub Actions**
-- Containerization with **Docker & Docker Compose**
-- Infrastructure basics with **Terraform**
-- Writing clean **Python** for backend logic and automation
+- 📊 Improving **SQL & Data Analysis skills** (Joins, Aggregations, Case Studies)  
+- 🐍 Using **Python for data analysis and automation**  
+- 🛠️ Practicing **Application Support scenarios (L1/L2 issues, debugging)**  
+- 📈 Building **real-world data projects (E-commerce, business datasets)**  
+- 🐧 Strengthening **Linux troubleshooting and system understanding** 
+
+
+## 🧰 Tech Stack & Tools  
+
+### 📊 Data Analysis  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 🧰 Tech Stack & Tools
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,linux" />
-</p>
-
-### 🧠 Backend & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,bash,nginx,mysql" />
-</p>
-
-### 🔧 Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+### 🛠️ Application Support  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Logs](https://img.shields.io/badge/System%20Logs-4CAF50?style=for-the-badge&logo=logstash&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-FF6F00?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🔹 Flask URL Shortener – AWS EC2 + CI/CD
-- Deployed Flask app on **AWS EC2 (Amazon Linux)**
-- Configured **SSH access, security groups, and public ports**
-- Built **GitHub Actions CI pipelines** for linting, testing, and Docker build validation
-- Used CI as a **quality gate** to protect production
 
-🔗 https://github.com/Tara-Choudhary/flask-url-shortener
 
----
 
-### 🔹 Flask Task Manager (CRUD + Docker)
-- Built a **Flask + MySQL** CRUD web application
-- Fully **dockerized using Docker Compose**
-- Focused on backend logic and container-based deployment
 
-🔗 https://github.com/Tara-Choudhary/Flask-Task-Manager
+## 🎯 Career Goal  
 
----
+Seeking an **entry-level Data Analyst / Application Support role**, where I can:
 
-### 🔹 Terraform – EC2 & Nginx Provisioning
-- Provisioned AWS EC2 infrastructure using **Terraform (IaC)**
-- Automated **Nginx installation** via user-data scripts
-- Managed security groups, key pairs, and outputs
+- Analyze data and generate business insights  
+- Work with SQL in real production environments  
+- Troubleshoot application and system issues  
+- Support live systems and improve reliability  
 
----
-
-## 🎯 Career Goal
-
-Seeking an **entry-level DevOps / Cloud Engineer role** where I can contribute to:
-- Cloud infrastructure setup
-- CI/CD automation
-- Docker-based deployments  
-
-while continuing to grow in **AWS, Terraform, and DevOps best practices**.
-
----
+while continuously improving in **data analysis, SQL, and system support skills**.
 
 ## 📊 GitHub Stats
 
@@ -110,4 +88,4 @@ while continuing to grow in **AWS, Terraform, and DevOps best practices**.
   </a>
 </p>
 
-🌱 *Learning in public. Building real systems. Improving every day.*
+💡 *Strong focus on real-world problem solving, system reliability, and data-driven decision making.*
