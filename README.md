@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tara Choudhary</h1>
-<h3 align="center">Data Analyst | Application Support Engineer | SQL • Linux • Production Support • Root Cause Analysis</h3>
+<h3 align="center">Data Analyst | Application Support Engineer </h3>
+<h4 align="center"> SQL • Linux • Production Support • Root Cause Analysis</h4>
 
 ---
 
