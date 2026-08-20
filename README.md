@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tara Choudhary</h1>
-<h3 align="center">Data Analyst | SQL • Power BI • Python • AWS</h3>
+<h3 align="center"> Analyst | SQL • Power BI • Python</h3>
 <h4 align="center">Turning raw data into business insights</h4>
 
 ---
@@ -11,11 +11,19 @@ I'm an entry-level **Data Analyst** who builds real, end-to-end data projects �
 - 📊 Skilled in **SQL for data analysis, reporting, and business insights**
 - 📈 Build **interactive Power BI dashboards** with KPI design and DAX
 - 🐍 Use **Python (Pandas)** for data cleaning and analysis
-- ☁️ Comfortable building **ETL pipelines on AWS (S3, Glue, Athena)**
 - 🐧 Solid **Linux fundamentals** (logs, processes, basic troubleshooting) — useful for supporting reliable, production-grade data systems
 - 📍 Based in Pune, India
 
 💼 **What I do:** Analyze data with SQL/Python, build dashboards that answer real business questions, and design ETL pipelines that turn messy raw data into something usable.
+
+---
+
+
+## 📌 Featured Projects
+
+- **Retail Sales KPI Dashboard (Power BI)** — analyzed ~1M retail transactions to track revenue, orders, and AOV across cities and store types
+- **E-commerce Sales Analysis (SQL)** — used JOIN/GROUP BY/aggregations to uncover top-performing categories and loss-making transactions
+- **Excel Case Study** — identified factors behind a 12% drop in profit margin using pivot analysis
 
 ---
 
@@ -24,7 +32,6 @@ I'm an entry-level **Data Analyst** who builds real, end-to-end data projects �
 - 📊 Deepening **SQL & data analysis** (joins, aggregations, real case studies)
 - 🐍 Using **Python for analysis and automation**
 - 📈 Building **real-world data projects** (e-commerce, retail, business datasets)
-- ☁️ Strengthening **AWS data pipeline skills** (S3, Glue, Athena)
 - 🐧 Applying **Linux fundamentals** to support data infrastructure reliably
 
 ---
@@ -48,16 +55,6 @@ I'm an entry-level **Data Analyst** who builds real, end-to-end data projects �
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-- **Retail Sales KPI Dashboard (Power BI)** — analyzed ~1M retail transactions to track revenue, orders, and AOV across cities and store types
-- **AWS Data Analytics Pipeline (S3 → Glue → Athena)** — built an end-to-end ETL pipeline to clean and query e-commerce data
-- **E-commerce Sales Analysis (SQL)** — used JOIN/GROUP BY/aggregations to uncover top-performing categories and loss-making transactions
-- **Excel Case Study** — identified factors behind a 12% drop in profit margin using pivot analysis
-
-*(Pin these four repos at the top of your GitHub profile so they're the first thing visitors see.)*
 
 ---
 
